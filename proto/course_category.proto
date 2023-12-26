@@ -1,5 +1,5 @@
 syntax = "proto3";
-package pb; // por convenção é comum o nome do pacote ser pb
+package pb;
 option go_package = "internal/pb";
 
 message Category {

@@ -9,3 +9,6 @@ Repositório para estudar a aplicação do gRPC
 ## Guias de ajuda
 - [gRPC](https://grpc.io/)
 - [Protocol Buffers](https://developers.google.com/protocol-buffers)
+
+## Comandos
+- `protoc --go_out=. --go-grpc_out=. path-to-protofile` - Gera os arquivos do proto.
