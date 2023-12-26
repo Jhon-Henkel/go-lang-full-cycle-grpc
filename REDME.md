@@ -28,6 +28,7 @@ Repositório para estudar a aplicação do gRPC
 ## Guias de ajuda
 - [gRPC](https://grpc.io/)
 - [Protocol Buffers](https://developers.google.com/protocol-buffers)
+- Quando fazer o cadastro de categorias via stream use CTRL+D para finalizar o stream.
 
 ## Comandos
 - `protoc --go_out=. --go-grpc_out=. path-to-protofile` - Gera os arquivos conforme o proto-file.
